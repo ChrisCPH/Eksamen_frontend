@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-PROJECT_NAME="testeksamen"
+PROJECT_NAME="24eksamen"
 DROPLET_URL="68.183.74.244"
 
 echo "##############################"
